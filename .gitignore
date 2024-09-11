@@ -1,0 +1,10 @@
+# Ignorar archivos específicos
+bot.qr.png
+db.json
+google.json
+package-lock.json
+.env
+
+# Ignorar carpetas específicas
+node_modules/
+bot_sessions/
